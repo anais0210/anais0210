@@ -1,16 +1,19 @@
-### Hi there 👋
+# 👋 Hello, I’m Anais
 
-<!--
-**anais0210/anais0210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Formatrice en développement web 
+🌱 J’aime créer des projets accessibles et inclusifs  
 
-Here are some ideas to get you started:
+## 🚀 Skills
+![HTML](https://img.shields.io/badge/HTML-orange?logo=html5)
+![CSS](https://img.shields.io/badge/CSS-blue?logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react)
+![PHP](https://img.shields.io/badge/React-61DAFB?logo=react)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 📫 Find me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/anais-sparesotto-formatrice/)
+[![My web site](https://img.shields.io/badge/Portfolio-000?logo=firefox)](https://anais-formation-tech.fr)
+
+---
+⭐️ From [anais](https://github.com/anais0210)
