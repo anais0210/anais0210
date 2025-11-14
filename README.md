@@ -6,18 +6,16 @@ J’accompagne des promos de développeur·euses sur plusieurs mois : bases du w
 ---
 
 ### 🎯 Ce que je fais au quotidien
-- Concevoir et animer des contenus pédagogiques (HTML, CSS, JS/TS, SQL, Node.js, Java/Spring Boot, ORM…).  
+- Concevoir et animer des contenus pédagogiques (HTML, CSS, JS/TS, SQL, Node.js, Java/Spring Boot, ORM, php, symfony…).  
 - Piloter des projets complets alignés RNCP 5 & RNCP 6.  
 - Suivre individuellement les apprenant·es, structurer les workflows Git/GitHub, accompagner sur les soutenances.  
-- Créer des outils pédagogiques : checklists RNCP, projets, quiz, ressources Notion, MCD → MLD, outils SCORM.  
+- Créer des outils pédagogiques : checklists RNCP, projets, quiz, ressources Notion, MCD → MLD etc ...  
 - Faire avancer une conviction simple : la formation tech doit être accessible à toutes et tous.
 
 ---
 
 ### 🛠️ Côté dev
-Je continue à coder pour rester à jour : front, back, automatisations, projets internes, intégration LMS/SCORM.  
-Stack actuelle : **TypeScript, React, Node/Express, Java/Spring Boot, Postgres, Prisma/TypeORM, Docker, GitHub Actions**.
-
+Je continue à coder pour rester à jour : front, back, automatisations, projets internes  
 ---
 
 ### 💡 Mes valeurs
