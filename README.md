@@ -1,85 +1,84 @@
-# Anais  ✨
+### 👋 Hello, moi c’est Anaïs
 
-Développeur·euse passionné·e par le web et la pédagogie 
+Responsable de formation & développeuse web depuis 2018.  
+J’accompagne des promos de développeur·euses sur plusieurs mois : bases du web, projets fil rouge, bonnes pratiques, accessibilité, éco-conception, CI/CD, qualité de code… toujours avec une approche concrète et inclusive.
 
-## Compétences techniques et comportementales
-<table><tr>
-<td>
-<h3>Compétences</h3>
-<div>
-<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
-<img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white" />
-<img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
-<img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white" />
-<img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
-<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white" />
-<img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-<img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-<img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white" />
-<img alt="Prettier" src="https://img.shields.io/badge/Prettier-F7B93E?style=flat&logo=prettier&logoColor=white" />
-<img alt="ESLint" src="https://img.shields.io/badge/ESLint-4B32C3?style=flat&logo=eslint&logoColor=white" />
-<img alt="Webpack" src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat&logo=webpack&logoColor=white" />
-<img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
-<img alt="Express" src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" />
-<img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white" />
-<img alt="Apollo" src="https://img.shields.io/badge/Apollo-311C87?style=flat&logo=apollographql&logoColor=white" />
-<img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
-<img alt="Symfony" src="https://img.shields.io/badge/Symfony-000000?style=flat&logo=symfony&logoColor=white" />
-<img alt="Prisma" src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white" />
-<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
-<img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" />
-<img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-<img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" />
-<img alt="Expo" src="https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white" />
-<img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white" />
-<img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" />
-<img alt="GitLab" src="https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white" />
-<img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-<img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
-<img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white" />
-<img alt="Bitbucket" src="https://img.shields.io/badge/Bitbucket-0052CC?style=flat&logo=bitbucket&logoColor=white" />
-<img alt="Vitest" src="https://img.shields.io/badge/Vitest-6E9F18?style=flat&logo=vitest&logoColor=white" />
-<img alt="Playwright" src="https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white" />
-<img alt="Cypress" src="https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white" />
-<img alt="Jest" src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white" />
+---
+
+### 🎯 Ce que je fais au quotidien
+- Concevoir et animer des contenus pédagogiques (HTML, CSS, JS/TS, SQL, Node.js, Java/Spring Boot, ORM…).  
+- Piloter des projets complets alignés RNCP 5 & RNCP 6.  
+- Suivre individuellement les apprenant·es, structurer les workflows Git/GitHub, accompagner sur les soutenances.  
+- Créer des outils pédagogiques : checklists RNCP, projets, quiz, ressources Notion, MCD → MLD, outils SCORM.  
+- Faire avancer une conviction simple : la formation tech doit être accessible à toutes et tous.
+
+---
+
+### 🛠️ Côté dev
+Je continue à coder pour rester à jour : front, back, automatisations, projets internes, intégration LMS/SCORM.  
+Stack actuelle : **TypeScript, React, Node/Express, Java/Spring Boot, Postgres, Prisma/TypeORM, Docker, GitHub Actions**.
+
+---
+
+### 💡 Mes valeurs
+Accessibilité, inclusion, pédagogie active et transparence.  
+Former, oui — mais surtout professionnaliser et rendre autonomes.
+
+---
+
+### 🚀 Objectif
+Partager mes outils, mes projets et mes pratiques pour aider d’autres équipes pédagogiques à rendre leurs formations plus accessibles, plus efficaces et mieux alignées avec le terrain.
+
+---
+
+<br clear="both">
+
+## 🔧 Tech & Tools
+
+<table>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo" /></td>
+    <td><img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo" /></td>
+    <td><img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo" /></td>
+  </tr>
+</table>
+
+---
+
+<table>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=symfony" height="40" alt="symfony logo" /></td>
+    <td><img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo" /></td>
+    <td><img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" /></td>
+  </tr>
+</table>
+
+---
+
+<table>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=phpstorm" height="40" alt="phpstorm logo" /></td>
+    <td><img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo" /></td>
+  </tr>
+</table>
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anais0210/anais0210/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anais0210/anais0210/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/anais0210/anais0210/output/pacman-contribution-graph.svg">
+</picture>
+
+<br><br>
+
+<img src="https://raw.githubusercontent.com/anais0210/anais0210/output/snake.svg" alt="Snake animation" />
+
+<br><br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anais0210&locale=fr&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
+  <img src="https://streak-stats.demolab.com?user=anais0210&locale=fr&mode=weekly&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
+  <img src="https://github-profile-trophy.vercel.app?username=anais0210&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anais0210&radius=16&theme=dracula&area=true&order=5&hide_border=true&hide_title=true" height="300" alt="activity graph" />
 </div>
-</td>
-<td>
-<h3>Compétences comportementales</h3>
-<ul>
-<li>Communication</li>
-<li>Travail d’équipe</li>
-<li>Résolution de problèmes</li>
-<li>Empathie</li>
-<li>Esprit critique</li>
-<li>Organisation</li>
-<li>Pédagogie</li>
-</ul>
-</td>
-</tr></table>
-
-## Statistiques GitHub
-![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=anais0210&show_icons=true&theme=radical)
-
----
-
-<table><tr>
-<td valign="top">
-<h4>Langages les plus utilisés</h4>
-<img alt="Langages les plus utilisés" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anais0210&layout=compact&theme=dracula" />
-</td>
-<td valign="top">
-<h4>Série de contributions</h4>
-<img alt="Série de contributions" src="https://streak-stats.demolab.com?user=anais0210&theme=dracula&hide_border=true" />
-</td>
-</tr></table>
-
----
-
-### Graphique d'activité
-![Graphique d'activité GitHub](https://github-readme-activity-graph.vercel.app/graph?username=anais0210&theme=dracula)
-
-## Liens
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/anais0210/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anais-sparesotto-formatrice/)
-[![Site web](https://img.shields.io/badge/Site%20web-0ea5e9?logoColor=white)](https://anais-formation-tech.fr/)
